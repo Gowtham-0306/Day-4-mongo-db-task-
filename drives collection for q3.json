@@ -1,0 +1,26 @@
+[
+  {
+    "company_name": "TechCorp",
+    "date": "2020-10-20",
+    "location": "Virtual",
+    "positions_available": 5
+  },
+  {
+    "company_name": "InnoSoft",
+    "date": "2020-10-25",
+    "location": "On-site",
+    "positions_available": 8
+  },
+  {
+    "company_name": "NanoTech",
+    "date": "2020-10-28",
+    "location": "Virtual",
+    "positions_available": 10
+  },
+  {
+    "company_name": "BigData Inc.",
+    "date": "2020-10-30",
+    "location": "On-site",
+    "positions_available": 6
+  }
+]
